@@ -13,3 +13,4 @@
 | anew        | [anew](https://github.com/tomnomnom/anew)             | Deduplication of lists, Storing unique entries           |
 | gau        | [gau](https://github.com/lc/gau)             | Collect archived URLs from Wayback Machine, Common Crawl, and others          |
 | onehistory        | [onehistory](https://github.com/tomnomnom/httprobe )             | Historical data extraction for URLs         |
+| Recon-ng       | [Recon-ng](https://github.com/lanmaster53/recon-ng)             | Web reconnaissance, OSINT data collection       |
