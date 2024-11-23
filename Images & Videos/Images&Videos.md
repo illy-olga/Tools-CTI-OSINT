@@ -7,5 +7,4 @@
 | Forensically     | [forensically.net](https://29a.ch/photo-forensics/) | Image forensics and analysis         |
 | Invid            | [Invid](https://invid-project.eu/)          | Video verification, fact-checking        |
 | ExifTool         | [ExifTool](https://exiftool.org/)           | Metadata extraction                      |
-
 | InVID         | [InVID](https://www.invid-project.eu)           | Video verification, metadata extraction                      |
