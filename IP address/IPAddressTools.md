@@ -4,4 +4,4 @@
 |----------------------|-----------------------------------------------------|----------------------------------------------|
 | Shodan            | [Shodan]( https://www.shodan.io/)             | IP scanning, Service banners, Vulnerable devices            |
 | whois   | [whois](https://linux.die.net/man/1/whois) | Domain registration data, IP ownership information                     |
-
+| IP2Location   | [IP2Location](https://www.ip2location.com) | IP geolocation, city, country                    |
