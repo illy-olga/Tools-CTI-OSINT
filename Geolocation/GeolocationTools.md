@@ -10,4 +10,5 @@
 | IP2Location    | [IP2Location.com](https://www.ip2location.com)  | IP geolocation, ASN, city, country         |
 | MaxMind GeoIP    | [MaxMind GeoIP](https://www.maxmind.com)  | IP geolocation, ISP lookup        |
 | Google Maps API    | [Google Maps API](https://developers.google.com/maps)  | Geolocation, map-based queries         |
-
+| Geospy   | [Geospy](https://geospy.io)  | Track geolocations and devices       |
+| Wikimapia    | [Wikimapia](https://wikimapia.org)  | Map exploration and local searches        |
