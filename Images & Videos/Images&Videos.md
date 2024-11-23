@@ -8,3 +8,4 @@
 | Invid            | [Invid](https://invid-project.eu/)          | Video verification, fact-checking        |
 | ExifTool         | [ExifTool](https://exiftool.org/)           | Metadata extraction                      |
 | InVID         | [InVID](https://www.invid-project.eu)           | Video verification, metadata extraction                      |
+| Jimpl         | [Jimpl](https://jimpl.com)           | Reverse image search                    |
