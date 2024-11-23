@@ -10,9 +10,7 @@
 | dnsrecon          | [dnsrecon](https://github.com/darkoperator/dnsrecon)       | Domain enumeration (DNS records), Zone transfers, Brute-forcing of subdomains         |
 | sublist3r          | [Sublist3r](https://github.com/aboul3la/Sublist3r)       | Subdomain enumeration from public sources, Uses search engines like Google, Bing, Yahoo, and more          |
 | ctfr          | [ctfr](https://github.com/UnaPibaGeek/ctfr)       | Subdomain enumeration via certificate transparency logs          |
-
-
-
+| Amass          | [Amass](https://github.com/OWASP/Amass)       | Subdomain enumeration, DNS enumeration         |
 
 
 
