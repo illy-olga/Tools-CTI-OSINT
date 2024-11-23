@@ -7,3 +7,4 @@
 | PhishTank API   | [phishtank.com](https://www.phishtank.com) | Phishing URL database, real-time phishing detection                     |
 | DeHashed   | [dehashed.com](https://dehashed.com) | Search data breaches (emails, IPs, usernames, etc.)                      |
 | HaveIBeenPwned   | [haveibeenpwned.com](https://haveibeenpwned.com) | Data breach search for emails and passwords                      |
+| Gophish   | [Gophish](https://getgophish.com) | Phishing campaign simulations                    |
