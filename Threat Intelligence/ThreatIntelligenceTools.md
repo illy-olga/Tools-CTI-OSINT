@@ -8,3 +8,5 @@
 | PhishTool            | [phishtool.com](https://phishtool.com/)           | Analyse et détection de phishing            |
 | crt.sh           | [crt.sh](https://crt.sh/)           | Certificate transparency logs, Subdomain discovery            |
 | shodan            | [shodan](https://www.shodan.io/)           | IP scanning, Service banners, Vulnerable devices           |
+| OSINT Framework           | [OSINT Framework](https://osintframework.com)           | Collection of OSINT tools for threat intelligence           |
+| Bellingcat Toolkit            | [Bellingcat Toolkit](https://bellingcat.com)           | Tools and resources for open-source intelligence           |
