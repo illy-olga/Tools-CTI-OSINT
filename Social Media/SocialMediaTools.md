@@ -6,4 +6,4 @@
 | Maltego          | [maltego.com](https://www.maltego.com/)         | Social network mapping, connections       |
 | TweetDeck        | [tweetdeck.twitter.com](https://tweetdeck.twitter.com/) | Twitter analysis, account tracking   |
 | Insta Anonymous  | [instaanonymous.com](https://instaanonymous.com/) | Instagram public profile lookup         |
-
+| Social Links | [Social Links](https://social-links.io)     | OSINT for people and social media profiles  |
