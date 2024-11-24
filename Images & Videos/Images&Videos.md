@@ -1,5 +1,7 @@
 # Images & Videos
 
+Tools to analyze images and videos, extract metadata, or detect manipulated content.
+
 | Name             | URL Tool                                    | Supported Types                          |
 |------------------|---------------------------------------------|------------------------------------------|
 | TinEye           | [tineye.com](https://tineye.com/)           | Reverse image search                     |
