@@ -1,5 +1,7 @@
 # Companies
 
+Tools to gather information about companies, such as their websites, employees, subdomains, and other public data.
+
 | Name                 | URL Tool                                            | Supported Types                              |
 |----------------------|-----------------------------------------------------|----------------------------------------------|
 | theHarvester   | [theHarvester](https://github.com/laramies/theHarvester) | emails, subdomains, names and IPs from public sources        |
