@@ -1,6 +1,6 @@
 # 🕵️‍♂️ OSINT Toolbox  
 
-![OSINT Toolbox Banner](bannersosint.png)  
+![OSINT Toolbox Banner](sosint.png)  
 
 ## 🎯 **Objective**  
 This project aims to provide a comprehensive and well-organized collection of tools specialized in the field of OSINT (Open Source Intelligence). These tools are categorized to cover various aspects of collecting and analyzing online information, whether targeting individuals, companies, websites, or conducting broader threat intelligence analyses.  
