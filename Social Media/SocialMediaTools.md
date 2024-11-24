@@ -9,3 +9,4 @@
 | Social Links | [Social Links](https://social-links.io)     | OSINT for people and social media profiles  |
 | Sherlock | [Sherlock](https://github.com/sherlock-project/sherlock)     | Username enumeration across social media  |
 | Blackbird | [Blackbird](https://github.com/p1ngul1n0/blackbird)     | Profile scraping across platforms  |
+| ShadowFinder | [ShadowFinder](https://github.com/ShadowFinder)     | Profiles, discussions  |
