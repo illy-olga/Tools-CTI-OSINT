@@ -1,5 +1,7 @@
 # Websites
 
+Tools to analyze websites, their infrastructure, detect vulnerabilities, and extract hidden public data.
+
 | Name             | URL Tool                                            | Supported Types                         |
 |------------------|-----------------------------------------------------|-----------------------------------------|
 | Wayback Machine  | [web.archive.org](https://web.archive.org/)         | Web page archiving                      |
