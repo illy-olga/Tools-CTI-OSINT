@@ -1,5 +1,7 @@
 # Domains
 
+Tools to analyze domains, their subdomains, DNS records, and WHOIS data to gather insights about online resources.
+
 | Name            | URL Tool                         | Supported Types                        |
 |-----------------|----------------------------------|----------------------------------------|
 | Whois           | [who.is](https://who.is/)       | Domain registration info               |
