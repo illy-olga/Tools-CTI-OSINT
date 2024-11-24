@@ -14,3 +14,5 @@
 | gau        | [gau](https://github.com/lc/gau)             | Collect archived URLs from Wayback Machine, Common Crawl, and others          |
 | onehistory        | [onehistory](https://github.com/tomnomnom/httprobe )             | Historical data extraction for URLs         |
 | Recon-ng       | [Recon-ng](https://github.com/lanmaster53/recon-ng)             | Web reconnaissance, OSINT data collection       |
+| Favicorn      | [Favicorn.com](https://favicorn.com)                   | Website       |
+| Linkwarden      | [Linkwarden.io](https://linkwarden.io)                   | URLs      |
