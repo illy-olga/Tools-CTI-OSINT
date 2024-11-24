@@ -8,3 +8,4 @@
 | DeHashed   | [dehashed.com](https://dehashed.com) | Search data breaches (emails, IPs, usernames, etc.)                      |
 | HaveIBeenPwned   | [haveibeenpwned.com](https://haveibeenpwned.com) | Data breach search for emails and passwords                      |
 | Gophish   | [Gophish](https://getgophish.com) | Phishing campaign simulations                    |
+| Urlscan   | [Urlscan.io](https://urlscan.io) | URLs               |
