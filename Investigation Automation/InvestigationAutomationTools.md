@@ -1,5 +1,7 @@
 # Investigation Automation
 
+Tools to automate repetitive tasks in OSINT investigations, such as data collection and organization.
+
 | Name             | URL Tool                                              | Supported Types                               |
 |------------------|-------------------------------------------------------|-----------------------------------------------|
 | SpiderFoot       | [GitHub Repo](https://github.com/smicallef/spiderfoot) | OSINT automation, network and IP info         |
