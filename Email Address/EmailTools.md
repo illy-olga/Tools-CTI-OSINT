@@ -1,5 +1,7 @@
 # Email Address
 
+Tools to search, validate, and analyze public email addresses, often used to detect spam or phishing attacks.
+
 | Name            | URL Tool                                        | Supported Types                           |
 |-----------------|-------------------------------------------------|-------------------------------------------|
 | Hunter.io       | [hunter.io](https://hunter.io/)                 | Email discovery, domain search            |
