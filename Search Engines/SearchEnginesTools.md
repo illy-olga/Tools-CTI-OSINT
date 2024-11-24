@@ -1,5 +1,7 @@
 # Search Engines
 
+Tools to perform advanced searches on search engines to find specific information through targeted queries.
+
 | Name              | URL Tool                                             | Supported Types                                 |
 |-------------------|------------------------------------------------------|-------------------------------------------------|
 | DuckDuckGo        | [duckduckgo.com](https://duckduckgo.com/)            | Web search, privacy-focused                      |
