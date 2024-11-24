@@ -18,3 +18,4 @@ Tools to analyze websites, their infrastructure, detect vulnerabilities, and ext
 | Recon-ng       | [Recon-ng](https://github.com/lanmaster53/recon-ng)             | Web reconnaissance, OSINT data collection       |
 | Favicorn      | [Favicorn.com](https://favicorn.com)                   | Website       |
 | Linkwarden      | [Linkwarden.io](https://linkwarden.io)                   | URLs      |
+| inteltechniques      | [inteltechniques](https://inteltechniques.com/tools/Communities.html)       | All      |
