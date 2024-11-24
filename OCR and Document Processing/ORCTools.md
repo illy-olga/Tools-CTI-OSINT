@@ -9,3 +9,4 @@
 | EasyOCR           | [GitHub Repo](https://github.com/JaidedAI/EasyOCR)  | Optical Character Recognition for images         |
 | Apache Tika           | [Apache Tika](https://tika.apache.org)  | Document metadata extraction, file format parsing         |
 | Tesseract           | [Tesseract](https://github.com/tesseract-ocr)  | Optical character recognition (OCR)        |
+| Aperisolve          | [Aperisolve](https://aperisolve.fr)  | Images (steganography)     |
