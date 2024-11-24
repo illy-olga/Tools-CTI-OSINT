@@ -46,4 +46,5 @@ The authors and contributors of this project disclaim any responsibility for the
 
 ---
 
-**Learn, explore, and innovate responsibly. 🚀**
+## 📝 **Auteurs**  
+- **illy**  
