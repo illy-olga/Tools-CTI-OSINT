@@ -1,5 +1,7 @@
 # Phishing Detection & Analysis
 
+Tools to identify and analyze phishing attempts by examining suspicious emails, websites, and messages.
+
 | Name                 | URL Tool                                            | Supported Types                              |
 |----------------------|-----------------------------------------------------|----------------------------------------------|
 | PhishTool            | [phishtool.com](https://phishtool.com/)             | Détection et analyse de phishing            |
