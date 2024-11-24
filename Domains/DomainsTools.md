@@ -11,8 +11,8 @@
 | sublist3r          | [Sublist3r](https://github.com/aboul3la/Sublist3r)       | Subdomain enumeration from public sources, Uses search engines like Google, Bing, Yahoo, and more          |
 | ctfr          | [ctfr](https://github.com/UnaPibaGeek/ctfr)       | Subdomain enumeration via certificate transparency logs          |
 | Amass          | [Amass](https://github.com/OWASP/Amass)       | Subdomain enumeration, DNS enumeration         |
-
-
+| Cyberbro   | [Cyberbro](https://github.com/stanfrbd/cyberbro) | IP, domain, URL, hash        |
+| Phishing Scam Domains    | [Phishing Scam Domains](https://lnkd.in/eyxy3YvA) | Domains        |
 
 
 
