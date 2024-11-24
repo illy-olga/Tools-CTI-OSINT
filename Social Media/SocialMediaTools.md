@@ -1,5 +1,7 @@
 # Social Media
 
+Tools to analyze social media profiles, monitor discussions, or collect data about users on social platforms.
+
 | Name             | URL Tool                                        | Supported Types                           |
 |------------------|-------------------------------------------------|-------------------------------------------|
 | Osintgram        | [GitHub Repo](https://github.com/Datalux/Osintgram) | Instagram OSINT, account analysis     |
