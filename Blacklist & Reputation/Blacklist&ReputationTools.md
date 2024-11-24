@@ -1,5 +1,7 @@
 # Blacklist & Reputation
 
+Tools to check the reputation of IP addresses, domains, or emails by consulting blacklists and threat intelligence databases.
+
 | Name                 | URL Tool                                            | Supported Types                              |
 |----------------------|-----------------------------------------------------|----------------------------------------------|
 | Talos Intelligence   | [talosintelligence.com](https://talosintelligence.com/) | URL, IP, et domaine en liste noire        |
