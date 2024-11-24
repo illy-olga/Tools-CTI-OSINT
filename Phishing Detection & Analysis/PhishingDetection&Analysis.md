@@ -9,3 +9,4 @@
 | HaveIBeenPwned   | [haveibeenpwned.com](https://haveibeenpwned.com) | Data breach search for emails and passwords                      |
 | Gophish   | [Gophish](https://getgophish.com) | Phishing campaign simulations                    |
 | Urlscan   | [Urlscan.io](https://urlscan.io) | URLs               |
+| Phishing Scam Domains    | [Phishing Scam Domains](https://lnkd.in/eyxy3YvA) | Domains        |
