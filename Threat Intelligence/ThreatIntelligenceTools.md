@@ -1,5 +1,7 @@
 # Threat Intelligence
 
+Tools to collect and analyze information about emerging threats to improve detection and response to attacks.
+
 | Name                 | URL Tool                                          | Supported Types                             |
 |----------------------|---------------------------------------------------|---------------------------------------------|
 | Talos Intelligence   | [talosintelligence.com](https://talosintelligence.com/) | IP, URL, domaine, et réputation des menaces |
