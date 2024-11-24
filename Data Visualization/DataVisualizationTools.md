@@ -1,5 +1,7 @@
 # Data Visualization
 
+Tools to transform complex data into clear visual representations like graphs, maps, or charts for easier analysis.
+
 | Name             | URL Tool                                            | Supported Types                             |
 |------------------|-----------------------------------------------------|---------------------------------------------|
 | Kibana + Elasticsearch | [elastic.co](https://www.elastic.co/kibana/) | Data analysis, large dataset visualization |
