@@ -1,5 +1,7 @@
 # OCR and Document Processing
 
+Tools to extract information from scanned documents, images, or PDF files using Optical Character Recognition (OCR).
+
 | Name              | URL Tool                                            | Supported Types                                   |
 |-------------------|-----------------------------------------------------|---------------------------------------------------|
 | Soda PDF OCR      | [sodapdf.com](https://www.sodapdf.com/pdf-tools/ocr-pdf/) | OCR for PDFs, text extraction from images   |
