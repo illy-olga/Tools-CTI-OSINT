@@ -1,5 +1,7 @@
 # Data Breaches
 
+Tools to detect and analyze data breaches, checking if sensitive information has been exposed.
+
 | Name               | URL Tool                                        | Supported Types                          |
 |--------------------|-------------------------------------------------|------------------------------------------|
 | Have I Been Pwned  | [haveibeenpwned.com](https://haveibeenpwned.com/) | Email breaches, data leaks               |
