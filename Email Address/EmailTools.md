@@ -9,3 +9,4 @@
 | TheHarvester           | [TheHarvester](https://github.com/laramies/theHarvester)             | Emails, Subdomains, Names and IPs from public sources   |
 | metagoofil          | [metagoofil](https://github.com/laramies/metagoofil)             | Document metadata extraction, Supported formats: PDF, DOCX, PPTX, etc.   |
 | Have I Been Pwned           | [HaveIBeenPwned.com](https://haveibeenpwned.com/)             | Search data breaches via email or password exposure   |
+| FindEmail.io       | [FindEmail.io](https://findemail.io)             | Email    |
