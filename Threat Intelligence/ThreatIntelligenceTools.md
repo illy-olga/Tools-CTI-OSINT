@@ -10,3 +10,5 @@
 | shodan            | [shodan](https://www.shodan.io/)           | IP scanning, Service banners, Vulnerable devices           |
 | OSINT Framework           | [OSINT Framework](https://osintframework.com)           | Collection of OSINT tools for threat intelligence           |
 | Bellingcat Toolkit            | [Bellingcat Toolkit](https://bellingcat.com)           | Tools and resources for open-source intelligence           |
+| BinaryEdge            | [BinaryEdge.io](https://binaryedge.io)           | Threat data            |
+| Socradar          | [Socradar.io](https://socradar.io)           | Threat intelligence       |
