@@ -1,5 +1,7 @@
 # Geolocation
 
+Tools to determine the geographical location of IP addresses, devices, or online resources.
+
 | Name              | URL Tool                                      | Supported Types                        |
 |-------------------|-----------------------------------------------|----------------------------------------|
 | Google Earth      | [Google Earth](https://www.google.com/intl/fr/earth/) | Geographic visualization, mapping    |
