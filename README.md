@@ -47,4 +47,4 @@ The authors and contributors of this project disclaim any responsibility for the
 ---
 
 ## 📝 **Auteurs**  
-- **illy**  
+- **Illy**  
