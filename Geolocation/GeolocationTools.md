@@ -12,3 +12,5 @@
 | Google Maps API    | [Google Maps API](https://developers.google.com/maps)  | Geolocation, map-based queries         |
 | Geospy   | [Geospy](https://geospy.io)  | Track geolocations and devices       |
 | Wikimapia    | [Wikimapia](https://wikimapia.org)  | Map exploration and local searches        |
+| Wigle.net    | [Wigle.net](https://wigle.net)  | WiFi networks        |
+| Geohints    | [Geohints.com](https://wikimapia.org)  | Location data      |
