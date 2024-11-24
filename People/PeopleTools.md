@@ -1,5 +1,7 @@
 # People
 
+Tools to gather information about individuals, such as social media profiles, public activities, and other available online data.
+
 | Name           | URL Tool                                         | Supported Types                         |
 |----------------|--------------------------------------------------|-----------------------------------------|
 | Pipl           | [pipl.com](https://pipl.com/)                    | People search, social profiles          |
