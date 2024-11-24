@@ -1,5 +1,7 @@
 # IP Address
 
+Tools to retrieve detailed information about IP addresses, such as geolocation, associated services, and historical activity.
+
 | Name                 | URL Tool                                            | Supported Types                              |
 |----------------------|-----------------------------------------------------|----------------------------------------------|
 | Shodan            | [Shodan]( https://www.shodan.io/)             | IP scanning, Service banners, Vulnerable devices            |
