@@ -25,24 +25,8 @@ This project will evolve into a complete and intuitive resource for professional
 
 ---
 
-## 🤝 **Contributions**  
-Feel free to contribute by suggesting new tools, ideas, or methodologies to enhance this collective toolbox!  
-
----
-
 ## ⚠️ **Disclaimer**  
 This project is strictly for **educational and professional purposes**. The tools and resources listed in this toolbox are designed for legal activities, such as security analysis, audits, OSINT investigations, or cybersecurity research.  
-
-### **User Responsibility**  
-- The user is solely responsible for how they use the tools provided here.  
-- Any use for malicious or illegal purposes is strictly prohibited and may lead to serious legal consequences.  
-
-### **Best Practices**  
-- Always obtain explicit permission before testing or exploring systems or information that you do not own.  
-- Respect local and international laws regarding cybersecurity, privacy, and data collection.  
-
-### **Legal Notice**  
-The authors and contributors of this project disclaim any responsibility for the misuse of the tools or information provided. The primary goal is to promote responsible and ethical use of OSINT and CTI techniques to improve cybersecurity and protect sensitive data.  
 
 ---
 
