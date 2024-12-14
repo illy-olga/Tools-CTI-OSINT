@@ -28,7 +28,4 @@ This project will evolve into a complete and intuitive resource for professional
 ## ⚠️ **Disclaimer**  
 This project is strictly for **educational and professional purposes**. The tools and resources listed in this toolbox are designed for legal activities, such as security analysis, audits, OSINT investigations, or cybersecurity research.  
 
----
 
-## 📝 **Auteurs**  
-- **Illy**  
